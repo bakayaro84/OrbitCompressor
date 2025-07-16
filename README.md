@@ -370,24 +370,24 @@ def orbital_embedding_quality(embeddings, Z):
 ## 8. Roadmap de Développement
 
 ### Phase 1 (1-2 mois)
-- ✅ Implémentation couche OrbitalEmbedding
-- ✅ Benchmarks vs embeddings classiques
-- ✅ Intégration PyTorch/TensorFlow
+-  Implémentation couche OrbitalEmbedding
+-  Benchmarks vs embeddings classiques
+-  Intégration PyTorch/TensorFlow
 
 ### Phase 2 (2-3 mois)
-- 🔄 Mécanisme d'attention orbitale
-- 🔄 Mémoire orbitale pour séquences longues
-- 🔄 Optimisations GPU
+-  Mécanisme d'attention orbitale
+-  Mémoire orbitale pour séquences longues
+-  Optimisations GPU
 
 ### Phase 3 (3-4 mois)
-- 📋 Applications spécialisées (NLP, recommandation)
-- 📋 Évaluation sur benchmarks standards
-- 📋 Documentation et API
+-  Applications spécialisées (NLP, recommandation)
+-  Évaluation sur benchmarks standards
+-  Documentation et API
 
 ### Phase 4 (4-6 mois)
-- 📋 Modèles pré-entraînés
-- 📋 Intégration HuggingFace
-- 📋 Publication académique
+-  Modèles pré-entraînés
+-  Intégration HuggingFace
+-  Publication académique
 
 ---
 
